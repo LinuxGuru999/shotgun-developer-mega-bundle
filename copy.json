@@ -1,0 +1,18 @@
+{
+  "headline": "Supercharge your workflow with the ultimate developer toolkit at half price.",
+  "benefits": [
+    "Automate deployments and cut setup time with powerful CLI tools.",
+    "Ship secure, privacy-compliant apps without touching backend infrastructure.",
+    "Get all four premium developer kits instantly in one complete download."
+  ],
+  "faq": [
+    {
+      "q": "Are future updates included?",
+      "a": "Yes, you get lifetime access to all future updates for every included toolkit at no extra cost."
+    },
+    {
+      "q": "Can I use these tools for client projects?",
+      "a": "Absolutely, the bundle includes a commercial license so you can use it on unlimited personal and client projects."
+    }
+  ]
+}
